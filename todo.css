@@ -72,7 +72,7 @@ body {
     border-radius: 5px;
     padding: 20px;
     width: 400px;
-    margin-left: 20px; /* Agregamos un margen a la izquierda para separar los elementos */
+    margin-left: 20px; 
 }
 
 .list h1 {
